@@ -1,2 +1,3 @@
-# anilcollege
-This ia my first git repository
+# Anilcollege-demo
+This ia my first GIT Repository
+Author - Anil kumar
